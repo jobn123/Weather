@@ -1,4 +1,9 @@
+# Weather
+Mini App Weather
+
 # 小程序 Gulp 开发脚手架
+
+https://github.com/ksky521/gulp-wxapp-boilerplate
 
 * sass 开发 wxss
 * webfont 自动 base64 引入
@@ -71,6 +76,4 @@ npm run build
 2. 在`server/index.js`中，将云函数作为一个 express 的中间件函数使用
 3. 在本地开发中，小程序前端调用的云函数`wx.cloud.callFunction`的时候，替换成`api-mock.js`中的使用 `wx.request` 调用的本地 mock server 接口
 4. 使用 jdists 开发时候使用本地的 `api-mock`，生产打包则暴漏真正的`api.js`（详见：`pages/index/index.js`）
-
-
 
