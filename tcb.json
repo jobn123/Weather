@@ -4,8 +4,8 @@
   },
   "proxy": "http://localhost:3000/",
   "https_proxy": "",
-  "mpappid": "wx86968cbd851e6ce6",
-  "env": "tianqi-1d3bf9",
-  "secretid": "AKIDqbCcr1fqidO8qUGk3NekeO3Xq7NWcIsH",
-  "secretkey": "MjvOm5EC81qaAkBQYYOE3lIeu6IQTL6g"
+  "mpappid": "wxe2a0c01dc307e6ac",
+  "env": "we-7a4fdb",
+  "secretid": "AKIDOn8JJBiUxPp5C9BgDSccR8f4JQQG3dLz",
+  "secretkey": "eAVecu7A8wZ1JRSI1b0FJI7mJfrsjOuK"
 }
